@@ -1,0 +1,11 @@
+commands that i need to know for 391
+
+git pull - will pull all the code from ur remote repo to ur workspace
+git add - will add the file you have been working on 
+git commit -m "write ur message here" - will write the commit message 
+
+these two are part of the staging process
+git status is to see the status of the repo and to make sure everything is up to date
+
+git reset will not add the thing you want to add, say you did it by accident
+git reset commit will reset the commit you were about to do
